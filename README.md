@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Nitin Tomar</h1>
-<h2 align="center">A Passionate Web Developer and AI/ML Enthusiast from India</h2> 
+<h2 align="center">A Passionate Web Developer from India </h2> 
 
 
 ##  About Me:
-🔭 I’m currently working on: Web development projects and exploring the field of AI/ML.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about:Web-dev, AI <br>⚡ Fun fact: It Is what it is
+🔭 I’m currently working on: Web development projects and currently learning to walk in AI/ML without falling on my bottom.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about:Web-dev, AI <br>⚡ Fun fact: It Is what it is
 
 
 ## 🌐 Socials:
