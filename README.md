@@ -3,7 +3,8 @@
 
 
 ##  About Me:
-🔭 I’m currently working on: Web development projects and currently learning to walk in AI/ML without falling on my bottom.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about:Web-dev, AI <br>⚡ Fun fact: It Is what it is
+🔭 I’m currently working on: Web development projects and currently learning to walk in AI/ML without falling on my bottom.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about:Web-dev, AI <br>⚡ Fun fact: It Is what it is <br>
+📫 Reach me at **ntomar.0020@gmail.com**
 
 
 ## 🌐 Socials:
