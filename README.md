@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on: Web development projects and exploring the field of AI/ML.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about: <br>⚡ Fun fact: It Is what it is
+🔭 I’m currently working on: Web development projects and exploring the field of AI/ML.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about:Web-dev, AI <br>⚡ Fun fact: It Is what it is
 
 
 ## 🌐 Socials:
