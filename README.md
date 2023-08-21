@@ -1,6 +1,9 @@
   <h1 align="center">Hi 👋, I'm Nitin Tomar</h1>
 <h2 align="center">A Passionate Web Developer from India </h2> 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/robiot/robiot/main/jump.gif" />
+</p>
 
 ##  About Me:
 🔭 I’m currently working on: Web development projects and currently learning to walk in AI/ML without falling on my bottom.<br>👯 I’m looking to collaborate on: Exciting web development projects or AI/ML initiatives.<br>🤝 I’m looking for help with: Deepening my knowledge and skills in AI/ML.<br>🌱 I’m currently learning: AI/ML concepts, frameworks, and algorithms.<br>💬 Ask me about:Web-dev, AI <br>⚡ Fun fact: Multiverse is just a randomised set of virtual worlds made to test out which works best until the end <br>
