@@ -25,9 +25,6 @@
 
 </div>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=NitinTomar002)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nitin0002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
